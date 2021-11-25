@@ -52,7 +52,7 @@ Top Quality Pesticides
                         </p>
                     </div>
                     <div className="card-right">
-                    <img src={card} alt="" />
+                    <img className="img1" src={card} alt="" />
                     
                     
                     </div>
@@ -79,9 +79,16 @@ const CardSectionStyled = styled.section`
             height:85%;
             margin-top:80px;
             margin-left:70%;
+           
             }
-        }
 
+        }
+        .img1{
+            box-shadow: 0px 25px 50px rgba(22, 25, 79, 0.05);
+            border-radius: 62px;
+            width: 100%;
+            
+        }
         .card-left{
             p{
                 padding: 1rem 0;
