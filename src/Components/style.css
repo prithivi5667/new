@@ -1,0 +1,14 @@
+.logoimg{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+  }
+  img,
+  svg {
+    vertical-align: middle;
+    font-size: large;
+  }
+  .phone{
+      width:100%;
+      
+  }
