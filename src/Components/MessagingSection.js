@@ -35,7 +35,7 @@ function MessagingSection() {
                    <br/>
                    <h4 className="h4style" >KARMEGAM SEEDS and FERTILIZER & PESTICIDES</h4>
                     <h4 className="h4style">இ-சேவை மையம்</h4>
-                    <p>3/20-4 Pudhuvelliyam palayam,Nathakadaiyur,Kangayam -Tirupur 638108  </p>
+                    <p>156-A,Muslim Street,Kangayam -Tirupur 638701  </p>
                    <br/>
 
                    <hr/>
@@ -94,7 +94,7 @@ const MessageStyle = styled.section`
     .right-items{
         position: relative;
         img{
-            padding-left: 2rem;
+            padding-left: 1rem;
         }
         .bgCircle{
             position: absolute;

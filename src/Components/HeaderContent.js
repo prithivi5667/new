@@ -29,7 +29,7 @@ COMPANY LIMITED</h1>
                 {/*<img src={phone} alt="" className="phone" />*/}
                 <img src={ring1} alt="" className="ring1" />
                 <img src={message1} alt="" className="message1" />
-                <img src={message2} alt="" className="message2" />
+                
             </div>
             </Fade>
         </HeaderContentStyled>

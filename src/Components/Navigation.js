@@ -18,14 +18,12 @@ function Navigation() {
                 <li>
                     <a href="#Products">Products</a>
                 </li>
-                <li>
-                    <a href="#Contact">Contact Us</a>
-                </li>
+                
                 <li>
                     <a href="#About">About</a>
                 </li>
             </ul>
-            <PrimaryButton name={'Sign Up'} />
+            
         </NavigationStyled>
         </Fade>
     )
@@ -41,7 +39,7 @@ const NavigationStyled = styled.nav`
     ul{
         display: flex;
         justify-content: space-between;
-        width: 40%;
+        width: 60%;
     }
 `;
 export default Navigation

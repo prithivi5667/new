@@ -19,12 +19,11 @@ function Footer() {
                     </div>
                     <ul className="botton-nav">
                         <div className="links1">
-                            <li>
-                                <p id="Contact">karmegamcfpcl@gmail.com</p>
-                            </li>
-                            <li>
-                                <p></p>
-                            </li>
+                           
+                <p id="Contact">karmegamcfpcl@gmail.com</p>
+                <p id="Contact">04257-299086</p>
+                           
+                            
                             
                         </div>
                         
@@ -49,7 +48,7 @@ const FooterStyled = styled.footer`
     }
     .footer-con{
         display: grid;
-        grid-template-columns: repeat(2, 1fr);
+        grid-template-columns: repeat(1, 1fr);
     }
 
     .logo-con{
